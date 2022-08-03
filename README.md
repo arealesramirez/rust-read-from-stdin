@@ -1,5 +1,5 @@
 # How to read from stdin using Rust
-This code is used to exaplain how to read user input (stdin) using Rust. If you need a thorough explanation, check out the article https://www.becomebetterprogrammer.com/?p=3261&preview=true&preview_id=3261
+This code is used to exaplain how to read user input (stdin) using Rust. If you need a thorough explanation, check out the article https://www.becomebetterprogrammer.com/rust-read-user-input
 
 ## Reading a single line from stdin
 To check out the code that reads a single line from stdin, check out the `read_single_line` function inside the main.rs file
